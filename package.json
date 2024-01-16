@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/DanielCaz/build-chrome-extension/issues"
   },
-  "homepage": "https://github.com/DanielCaz/build-chrome-extension#readme"
+  "homepage": "https://github.com/DanielCaz/build-chrome-extension#readme",
+  "dependencies": {
+    "html-minifier": "^4.0.0",
+    "tailwindcss": "^3.4.1",
+    "uglify-js": "^3.17.4"
+  }
 }
