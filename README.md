@@ -1,6 +1,6 @@
 # Build chrome extension CLI tool
 
-CLI tool to create a build of a chrome extension made with my template.
+CLI tool to create a build of a chrome extension made with my [template](https://github.com/DanielCaz/create-chrome-extension).
 
 ## Getting Started
 
