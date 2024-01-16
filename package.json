@@ -1,0 +1,20 @@
+{
+  "name": "build-chrome-extension",
+  "version": "1.0.0",
+  "description": "CLI tool to create a build of a chrome extension made with my template.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "build-chrome-extension": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCaz/build-chrome-extension.git"
+  },
+  "author": "DanielCaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielCaz/build-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/DanielCaz/build-chrome-extension#readme"
+}
