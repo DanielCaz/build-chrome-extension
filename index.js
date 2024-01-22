@@ -12,7 +12,7 @@ const build = async () => {
     execSync("mkdir dist");
 
     console.log("Compiling TypeScript...\n");
-    execSync("tsc");
+    execSync("npx tsc");
 
     console.log("Copying files...");
     execSync("cp -r src/icons src/manifest.json src/popup.html dist/");
